@@ -1,4 +1,3 @@
-import model from  "../../public/model.png"
 
 export default function Home() {
   return (
