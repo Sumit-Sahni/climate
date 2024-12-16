@@ -5,10 +5,10 @@ export default function Home() {
         <h1 className="text-white   font-gruppo  text-5xl sm:text-8xl justify-center items-center  flex tracking-wider text-foreground animate-fade animate-once animate-ease-linear animate-normal delay-1000 ">
           CLIMATHER
         </h1>
-        <div className="hidden md:block w-[50%]   text-center mx-auto text-white">
+        <div className="hidden md:block w-[50%] text-center mx-auto text-white">
           <p>
             To envelop you in unparalleled comfort, timeless elegance, and the
-            sophistication you deserve. At "climather", we believe
+            sophistication you deserve. At climather, we believe
             luxury is a way of life—a world where every detail is thoughtfully
             curated to inspire, indulge, and captivate.
           </p>
