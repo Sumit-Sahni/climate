@@ -21,7 +21,7 @@ export default {
         },
       },
       fontFamily: {
-        cormorant: ['Cormorant', 'serif'],
+        gruppo :['Gruppo', 'serif']
       },
       colors: {
         background: "var(--background)",
