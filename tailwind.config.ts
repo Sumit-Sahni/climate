@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       backgroundImage :{
-        bannerImg : "url('/model3.jpg')"
+        bannerImg : "url('/water2.jpg')"
       },
       animation: {
         fade: 'fadeIn 1.5s ease-in-out',
