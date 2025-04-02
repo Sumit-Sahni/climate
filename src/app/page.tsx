@@ -6,9 +6,6 @@ export default function Home() {
           CLIMATHER
         </h1>
         <div className="text-xs sm:text-sm text-center mx-auto text-white px-6">
-          <p>
-            At Climather, every sip is made to bring you comfort and care. Our beverages are created to refresh, inspire, and brighten your day, one moment at a time.
-          </p>
         </div>
         <div className="mt-4 sm:mt-4">
           <a
